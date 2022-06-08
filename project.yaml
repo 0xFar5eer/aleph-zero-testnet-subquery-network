@@ -6,8 +6,8 @@ repository: https://github.com/nova-wallet/subquery-nova
 schema:
   file: ./schema.graphql
 network:
-  genesisHash: '0x05d5279c52c484cc80396535a316add7d47b1c5b9e0398dd1f584149341460c5'
-  endpoint: wss://ws.test.azero.dev
+  genesisHash: '0xeafd52ef7758219a483d5638edb5f52defde460c69e7b31cd72cab2f1859dc6e'
+  endpoint: wss://ws-smartnet.test.azero.dev
   chaintypes:
     file: './dist/chaintypes.js'
 
